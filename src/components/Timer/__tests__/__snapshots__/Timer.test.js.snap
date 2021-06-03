@@ -1,0 +1,24 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Timer renders standard Timer 1`] = `
+<DocumentFragment>
+  <div
+    class="sc-bdnxRM haceqI"
+  >
+    <svg
+      class="sc-gtsrHT jAithI"
+    >
+      <circle
+        class="sc-dlnjwi MzNKe"
+        r="90"
+      />
+      <circle
+        class="sc-dlnjwi sc-hKFxyN MzNKe jUhpcP"
+        r="90"
+        stroke-dasharray="565.4866776461628"
+        stroke-dashoffset="565.4866776461628"
+      />
+    </svg>
+  </div>
+</DocumentFragment>
+`;
